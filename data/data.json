@@ -1,0 +1,9 @@
+{
+   "type": "CHANGE_TABLE_DATA",
+   "payload": {
+      "day": "суббота",
+      "row": 3,
+      "col": "3",
+      "body": "1234124"
+   }
+}
